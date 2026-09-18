@@ -48,5 +48,3 @@ python -m streamlit run app.py
 Anushka Dhumal
 Computer Science & Engineering
 
-
-This is enough for your GitHub README and clearly shows the **4 working modules**.
